@@ -1,0 +1,10 @@
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\bin\DataMergeEditor_WCF_SOAP_API.dll.config
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\bin\DataMergeEditor_WCF_SOAP_API.dll
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\bin\DataMergeEditor_WCF_SOAP_API.pdb
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\obj\Debug\DataMergeEditor_WCF_SOAP_API.csproj.AssemblyReference.cache
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\obj\Debug\DataMergeEditor_WCF_SOAP_API.csproj.CoreCompileInputs.cache
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\obj\Debug\DataMergeEditor_WCF_SOAP_API.dll
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\obj\Debug\DataMergeEditor_WCF_SOAP_API.pdb
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\bin\EntityFramework.dll
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\bin\EntityFramework.xml
+C:\Users\djmar\source\repos\DataMergeEditor_WCF_SOAP_API\DataMergeEditor_WCF_SOAP_API\obj\Debug\DataMergeEditor_WCF_SOAP_API.csproj.CopyComplete
