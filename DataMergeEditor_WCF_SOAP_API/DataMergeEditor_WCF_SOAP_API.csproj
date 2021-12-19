@@ -108,11 +108,11 @@
       <DependentUpon>UsersTestAsmx.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\Svc\Game\GamesService.svc.cs">
       <DependentUpon>GamesService.svc</DependentUpon>
     </Compile>
     <Compile Include="Services\Svc\Game\IGamesService.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\Svc\User\IUsersService.cs" />
     <Compile Include="Services\Svc\User\UsersService.svc.cs">
       <DependentUpon>UsersService.svc</DependentUpon>

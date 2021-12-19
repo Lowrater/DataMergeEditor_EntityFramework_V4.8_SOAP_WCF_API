@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -27,3 +28,4 @@ namespace DataMergeEditor_WCF_SOAP_API.Services.Svc.User
 
     }
 }
+

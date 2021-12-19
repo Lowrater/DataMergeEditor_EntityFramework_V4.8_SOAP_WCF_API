@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="DataMergeEditor_WCF_SOAP_API.Services.User.UsersService" CodeBehind="UsersService.svc.cs" %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DataMergeEditor_WCF_SOAP_API.Services.Svc.User.UsersService" CodeBehind="UsersService.svc.cs" %>

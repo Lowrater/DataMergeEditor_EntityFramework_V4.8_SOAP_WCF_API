@@ -95,7 +95,7 @@ namespace DataMergeEditor_WCF_SOAP_API.Services.Svc.User
                 var foundUser = await Task.FromResult(dataResult.FirstOrDefault(user => user.UserID == id && user.UserName == name));
 
                 // null check
-                if(foundUser != null)
+                if (foundUser != null)
                 {
                     db.Users.Remove(foundUser);
                     db.SaveChanges();
@@ -115,3 +115,4 @@ namespace DataMergeEditor_WCF_SOAP_API.Services.Svc.User
 
     }
 }
+

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace DataMergeEditor_WCF_SOAP_API.Services.Svc.GamesService
+namespace DataMergeEditor_WCF_SOAP_API.Services.Svc.Game
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IGamesService" in both code and config file together.
     [ServiceContract]
