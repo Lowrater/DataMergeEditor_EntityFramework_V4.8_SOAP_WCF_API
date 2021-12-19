@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataMergeEditor_WCF_SOAP_API.Services.User
+namespace DataMergeEditor_WCF_SOAP_API.Services.Svc.User
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IUsersService" in both code and config file together.
     [ServiceContract]

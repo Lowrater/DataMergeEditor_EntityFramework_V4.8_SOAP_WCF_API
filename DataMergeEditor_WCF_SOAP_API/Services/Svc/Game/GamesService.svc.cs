@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DataMergeEditor_WCF_SOAP_API.Services.GamesService
+namespace DataMergeEditor_WCF_SOAP_API.Services.Svc.GamesService
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "GamesService" in code, svc and config file together.
     // NOTE: In order to launch WCF Test Client for testing this service, please select GamesService.svc or GamesService.svc.cs at the Solution Explorer and start debugging.
