@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.ServiceModel;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Services;
@@ -52,7 +53,7 @@ namespace DataMergeEditor_WCF_SOAP_API.Services.Asmx
         /// </summary>
         /// <param name="id"></param>
         [WebMethod]
-        public async Task<Database.User> GetUser(int id)
+        public Database.User GetUser(int id)
         {
             // get's users
             var dataResult = db.Users;
@@ -60,7 +61,7 @@ namespace DataMergeEditor_WCF_SOAP_API.Services.Asmx
             // checks if any users exists
             if (dataResult.Any())
             {
-                return await Task.FromResult(dataResult.FirstOrDefault(user => user.UserID == id));
+                return  dataResult.FirstOrDefault(user => user.UserID == id);
             }
             else
             {
